@@ -1,5 +1,9 @@
 # Zoom Meeting Manager
 
+![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 A full-stack web application to **list**, **create**, and **delete** Zoom meetings using the Zoom REST API (Server-to-Server OAuth).
 
 ---
